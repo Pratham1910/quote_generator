@@ -1,4 +1,4 @@
-
+# Random Quote Generator
 
 ## 📌 Overview
 This is a simple **Random Quote Generator** built using **HTML**, **CSS**, and **JavaScript**. It displays a random quote each time the user clicks the "New Quote" button, and allows the user to copy the quote to their clipboard.
